@@ -3,7 +3,7 @@
     "Docusaurus": ["doc1"],
     "First Category": ["doc2"],
     "Second Category": ["doc3"],
-    "Some New Quickstart": ["quickstart", "step-1"]
+    "Some New Quickstart": ["quickstart", "hearts-of-iron-4", "step-1"]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]

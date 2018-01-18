@@ -8,7 +8,7 @@
 /* List of projects/orgs using your project for the users page */
 const users = [
   {
-    caption: 'User1',
+    caption: 'Axel',
     image: '/test-site/img/docusaurus.svg',
     infoLink: 'https://www.facebook.com',
     pinned: true,
@@ -16,10 +16,10 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'Test Site' /* title for your website */,
-  tagline: 'A website for testing',
-  url: 'https://facebook.github.io' /* your website url */,
-  baseUrl: '/' /* base url for your project */,
+  title: 'Docusaurus Showcase' /* title for your website */,
+  tagline: 'Docs as code made easy',
+  url: 'https://supercompany.nl' /* your website url */,
+  baseUrl: '/docusaurus-test/' /* base url for your project */,
   projectName: 'test-site',
   headerLinks: [
     {doc: 'doc1', label: 'Docs'},
